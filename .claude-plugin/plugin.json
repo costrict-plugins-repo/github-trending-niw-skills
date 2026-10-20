@@ -1,0 +1,26 @@
+{
+  "name": "thepapers-niw",
+  "description": "Skills covering the U.S. EB-2 National Interest Waiver from first question to filed response. Decide whether to pursue it and under what proposed endeavor (niw-evaluate); plan the evidence to gather (niw-evidence-plan); find government sources showing the endeavor advances a national priority (niw-evidence-finder); draft the endeavor statement, the recommendation letters and the petition letter (niw-endeavor-statement, niw-recommendation-letter, niw-petition-letter); review the assembled package before filing (niw-package-review); and answer a Request for Evidence or Notice of Intent to Deny (niw-rfe-response). Legal substance is published in knowledge/ and built on the complete public pool of AAO non-precedent NIW decisions issued 2025-01 through 2026-06. For self-petitioners and immigration professionals. Not legal advice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Papers Company",
+    "url": "https://thepapers.co"
+  },
+  "homepage": "https://github.com/thepaperscompany/niw-skills",
+  "repository": "https://github.com/thepaperscompany/niw-skills",
+  "license": "Apache-2.0",
+  "displayName": "NIW Skills by The Papers Company",
+  "keywords": [
+    "national-interest-waiver",
+    "eb-2",
+    "niw",
+    "uscis",
+    "immigration",
+    "dhanasar",
+    "i-140",
+    "rfe",
+    "green-card",
+    "self-petition",
+    "legal"
+  ]
+}
